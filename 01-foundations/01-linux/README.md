@@ -1,17 +1,20 @@
-# Linux – Foundation for DevOps
+# 01 - Linux
 
-Linux has been the foundation of my IT career for over 7 years. I have hands-on experience managing and maintaining Linux servers in production environments.
+This module covers foundational Linux administration skills essential for DevOps workflows.
+It focuses on managing Linux systems efficiently, understanding filesystems, user and group management, permissions, and essential shell operations.
 
-## 🏆 Certifications
+## Experience & Certification
 
-- LPIC-1
-- RHCSA
+- LPIC-1 Certified Linux Administrator (outdated but foundational)
+- RHCSA (Red Hat Certified System Administrator)
+- 7+ years of professional experience managing Linux servers and systems
 
-## 💡 Experience
+## Learning Resources (Acknowledged)
 
-- Server administration and troubleshooting
-- Shell scripting and automation
-- User and permission management
-- Networking basics and configuration
+- **LPIC-1 Linux Bootcamp: In 30 Tagen zum Linux Admin** - Udemy
+- **Linux Administration Bootcamp** - Udemy
+- **Almacenamiento GlusterFS** - Udemy
 
-> Linux knowledge forms the backbone of infrastructure management and is a key prerequisite for any advanced DevOps work.
+## Notes
+
+This module provides the baseline skills required to effectively manage servers and prepare for automation, CI/CD pipelines, and cloud environments.
